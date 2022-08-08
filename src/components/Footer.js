@@ -5,13 +5,14 @@ const Footer = () => {
   return (
     <Box mt="80px" bgcolor="#fff3f4">
       <Stack gap="20px" alignItems="center" px="40px" pt="24px">
-        <Typography variant="h5" pb="4px" mt="40px">
-          Made with ❤️ by Mohammad Ayaan Siddiqui
+        <Typography variant="h5" pb="4px" mt="20px">
+          Made with ❤️ by <i class="fa-brands fa-ethereum"></i> Mohammad Ayaan
+          Siddiqui <i class="fa-brands fa-ethereum"></i>
         </Typography>
         <Typography variant="h6" color="gray">
           © Copyright {year}
         </Typography>
-        <Stack gap="20px" alignItems="center" direction="row" pb="40px">
+        <Stack gap="20px" alignItems="center" direction="row" pb="20px">
           <a
             href="https://github.com/moayaan1911"
             target="_blank"

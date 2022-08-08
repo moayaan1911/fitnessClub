@@ -44,7 +44,7 @@ const Navbar = () => {
           Exercises
         </a>
         <a
-          href="https://github.com/moayaan1911"
+          href="https://github.com/moayaan1911/fitnessClub"
           style={{
             textDecoration: "none",
             cursor: "pointer",
