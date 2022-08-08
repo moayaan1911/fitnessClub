@@ -43,6 +43,18 @@ const Navbar = () => {
         >
           Exercises
         </a>
+        <a
+          href="https://github.com/moayaan1911"
+          style={{
+            textDecoration: "none",
+            cursor: "pointer",
+            color: "#FF2625",
+          }}
+          target="_blank"
+          rel="noreferrer"
+        >
+          Github
+        </a>
       </Stack>
     </Stack>
   );
