@@ -49,4 +49,4 @@ Hello Everyone, My name is Mohammad Ayaan Siddiqui. I am a WEB3 developer and a 
 
 ## Thank You
 
-If you are reading this section, THANK YOU very much for ur time and support ❤️❤️
+If you are reading this section, THANK YOU very much for ur time and support ❤
