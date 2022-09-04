@@ -4,7 +4,7 @@ Deployment Link :- https://fitnessclubayaan.netlify.app/
 
 ## Tech Stack
 
-The Tech Stack used in this app are :-
+The Tech Stack used in this app are -
 
 1. React
 2. Material UI
