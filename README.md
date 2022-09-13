@@ -32,7 +32,7 @@ This will clone the Git repository in your system. Go to the folder and open wit
 
    This will install all the dependencies of exact versions used in the project.
 
-3. Start the server
+3. Start the server 
    ```
    npm start
    ```
