@@ -20,7 +20,7 @@ Steps to run this project in your local environment are:-
 
 ```
 git clone https://github.com/moayaan1911/fitnessClub.git
-```
+``` 
 
 This will clone the Git repository in your system. Go to the folder and open with VS CODE.
 
