@@ -9,7 +9,7 @@ The Tech Stack used in this app are -
 1. React
 2. Material UI
 3. Rapid API
-4. Netlify (for deployment)
+4. Netlify (for deploying the app)
 
 ### Run in Local Device
 
